@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  vertical-align: bottom;
+}
+
+body {
+  position: relative;
+  /* background: #000; */
+}
+
+h1 {
+  font-size: 200px;
+  color: blueviolet;
+  display: none;
+  text-align: left;
+}
+
+.jya {
+  width: 50%;
+  background: url(img/マイジャグハズレ.png);
+  background-size: cover;
+  object-fit: cover;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.jyb {
+  width: 50%;
+  background: url(img/マイジャグ.png);
+  background-size: cover;
+  object-fit: cover;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.t-title {
+  display: inline-block;
+}
+
+.b-b {
+  width:100%;
+}
+
+.b-item {
+  width: 50%;
+  margin: 0 auto;
+  background: #000;
+}
+
+.bb {
+  width:60px;
+  height:60px;
+  border-radius: 50%;
+  background: #000;
+  position: absolute;
+  top:504px;
+  right:48.1%;
+}
+
+a {
+  position: absolute;
+  top:10px;
+}
+
+button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: rgb(192, 192, 192);
+  position: absolute;
+  top:640px;
+  right: 43.05%;
+}
+
+audio {
+  width:100px;
+}
+
+.bigbig {
+  display: block;
+}
+
+.regreg {
+  display: block;
+}
+
